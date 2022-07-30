@@ -1,8 +1,8 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://www.zerotrustmodel.org/"  # Include trailing slash
+baseurl = "https://zerotrustmodel.org/"  # Include trailing slash
 title = "Zero Trust"
-author = "Joven Talasan"
+author = "talzcloning"
 #canonifyurls = true
 paginate = 8
 PaginatePath = "/posts/"
@@ -45,7 +45,7 @@ series = "series"
   notes = "/:slug/"
 
 [params]
-author = "Joven Talasan"
+author = "talzcloning"
 twitter = "@talzcloning"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "The Zero Trust Security Model and Its Implications on IT Security."

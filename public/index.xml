@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Zero Trust</title>
+    <link>https://zerotrustmodel.org/</link>
+    <description>Recent content in Home on Zero Trust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zerotrustmodel.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Send me a messagge</title>
+      <link>https://zerotrustmodel.org/contact/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/contact/</guid>
+      <description>Your name Your email*Your phone numberMessageSend message</description>
+    </item>
+    
+    <item>
+      <title>About Zero Trust</title>
+      <link>https://zerotrustmodel.org/about/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/about/</guid>
+      <description>Introduction: What is Zero Trust and Why is it Important? Zero Trust is a security model that assumes that any network connection can be hostile and should be treated accordingly. It is an alternative to the traditional model of security, which assumes that the network connection is not hostile.
+In this day and age, we can no longer trust a network connection without verifying it first. Hackers are becoming more sophisticated with their methods and they are able to bypass traditional security measures.</description>
+    </item>
+    
+    <item>
+      <title>How to Implement Zero Trust Network Access (ZTNA) using Cloudflare</title>
+      <link>https://zerotrustmodel.org/how-to-implement-zero-trust-network-access-ztna-using-cloudflare/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/how-to-implement-zero-trust-network-access-ztna-using-cloudflare/</guid>
+      <description>Introduction Zero Trust Network Access (ZTNA) technologies have been hailed as the future of security. ZTNA creates a perimeter around an application and blocks all unauthorised traffic. This guide will show you how to implement a clientless VPN for your web apps.
+Prerequisites Cloudflared running in Debian. IIS Webserver Cloudflare access account Zero Trust Architecture How to Implement Zero Trust using Cloudflare 1. Navigate to Cloudflare. 2. Enter you Email and Password.</description>
+    </item>
+    
+    <item>
+      <title>How to install ACME client protocol</title>
+      <link>https://zerotrustmodel.org/notes/how-to-install-acme-client-protocol/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/notes/how-to-install-acme-client-protocol/</guid>
+      <description>1. How to install Acme using Git Please provide a valid email address.
+1git clone https://github.com/acmesh-official/acme.sh.git 2cd acme.sh 3./acme.sh --install --accountemail &amp;#34;security@example.com&amp;#34; 4source ~/.bashrc 5cd 2. Issue SAN Certs using Standalone validation with acme.sh 1acme.sh --issue --standalone -d example.com -d www.example.com --ocsp-must-staple --keylength 2048 3. Issue SAN Certs using Webroot validation with acme.sh 1acme.sh --issue -d example.com -d www.example.com --webroot /var/www/_letsencrypt --reloadcmd &amp;#34;sudo systemctl reload nginx.service&amp;#34; --ocsp-must-staple --keylength 2048 4. Issue Wildcard Certs using DNS API validation with acme.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zerotrustmodel.org/formeonly/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/formeonly/</guid>
+      <description>This page is writing instruction for me only.
+Card {{&amp;lt; card title=&#34;Bước 0 - Học lập trình cơ bản với Python&#34; icon=&#34;python.svg&#34;&gt;}}&amp;lt;p style=&#34;width: 100%&#34;&gt;Lập trình là điều đầu tiên bạn cần học để có thể bắt kịp việc thực hành về sau. Python hiện tại là một ngôn ngữ rất phổ biến trong ngành trí tuệ nhân tạo. Có rất nhiều các khoá học được dạy với Python. Do vậy tôi khuyến khích các bạn bắt đầu với ngôn ngữ này.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zerotrustmodel.org/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Search Engine</title>
+      <link>https://zerotrustmodel.org/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

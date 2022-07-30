@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automation on Zero Trust</title>
+    <link>https://zerotrustmodel.org/tags/automation/</link>
+    <description>Recent content in automation on Zero Trust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zerotrustmodel.org/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install ACME client protocol</title>
+      <link>https://zerotrustmodel.org/notes/how-to-install-acme-client-protocol/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/notes/how-to-install-acme-client-protocol/</guid>
+      <description>1. How to install Acme using Git Please provide a valid email address.
+1git clone https://github.com/acmesh-official/acme.sh.git 2cd acme.sh 3./acme.sh --install --accountemail &amp;#34;security@example.com&amp;#34; 4source ~/.bashrc 5cd 2. Issue SAN Certs using Standalone validation with acme.sh 1acme.sh --issue --standalone -d example.com -d www.example.com --ocsp-must-staple --keylength 2048 3. Issue SAN Certs using Webroot validation with acme.sh 1acme.sh --issue -d example.com -d www.example.com --webroot /var/www/_letsencrypt --reloadcmd &amp;#34;sudo systemctl reload nginx.service&amp;#34; --ocsp-must-staple --keylength 2048 4. Issue Wildcard Certs using DNS API validation with acme.</description>
+    </item>
+    
+  </channel>
+</rss>

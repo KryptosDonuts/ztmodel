@@ -3,7 +3,7 @@ title = "About Zero Trust"
 description = "The Complete Guide to Zero Trust"
 date = "2022-07-24"
 aliases = ["about-us", "zero-trust", "contact"]
-author = "Joven Talasan"
+author = "talzcloning"
 toc = "true"
 +++
 

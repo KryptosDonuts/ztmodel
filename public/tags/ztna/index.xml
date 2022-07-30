@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ztna on Zero Trust</title>
+    <link>https://zerotrustmodel.org/tags/ztna/</link>
+    <description>Recent content in ztna on Zero Trust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zerotrustmodel.org/tags/ztna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Implement Zero Trust Network Access (ZTNA) using Cloudflare</title>
+      <link>https://zerotrustmodel.org/how-to-implement-zero-trust-network-access-ztna-using-cloudflare/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/how-to-implement-zero-trust-network-access-ztna-using-cloudflare/</guid>
+      <description>Introduction Zero Trust Network Access (ZTNA) technologies have been hailed as the future of security. ZTNA creates a perimeter around an application and blocks all unauthorised traffic. This guide will show you how to implement a clientless VPN for your web apps.
+Prerequisites Cloudflared running in Debian. IIS Webserver Cloudflare access account Zero Trust Architecture How to Implement Zero Trust using Cloudflare 1. Navigate to Cloudflare. 2. Enter you Email and Password.</description>
+    </item>
+    
+  </channel>
+</rss>

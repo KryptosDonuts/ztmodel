@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Zero Trust</title>
+    <link>https://zerotrustmodel.org/tags/index/</link>
+    <description>Recent content in index on Zero Trust</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zerotrustmodel.org/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://zerotrustmodel.org/posts/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotrustmodel.org/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
