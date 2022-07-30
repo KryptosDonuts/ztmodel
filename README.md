@@ -1,1 +1,1 @@
-# Example blog
+# Blog
