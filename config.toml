@@ -9,6 +9,7 @@ PaginatePath = "/posts/"
 theme = "hugo-curious"
 
 DefaultContentLanguage = "en"
+publishDir = "docs"
 # [languages]
 # config/_default/languages.toml
 
