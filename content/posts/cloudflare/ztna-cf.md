@@ -26,7 +26,7 @@ This guide will show you how to implement a clientless VPN for your web apps.
 
 ## Zero Trust Architecture
 
-![](/images/ztna-cf.png)
+![](/images/ztna/ztna-cf.png)
 
 # How to Implement Zero Trust using Cloudflare
 
